@@ -1,0 +1,2 @@
+# README.md
+COMANDOS DE GIT - UTNFRSR Cohorte 2025 Magali Ordenes Viguet GRUPO LOS IDOS
